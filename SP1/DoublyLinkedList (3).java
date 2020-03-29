@@ -1,4 +1,4 @@
-package vxk190000;
+package mxd180035;
 
 import java.util.ListIterator;
 import java.util.NoSuchElementException;
@@ -8,7 +8,7 @@ import java.util.Scanner;
  *  Doubly Linked List class which extends the SinglyLinkedList class.
  * 
  * 
- * @author Venkateswar Reddy kaluva(VXK190000) &  Mani Chandana Dyda(MXD180035)
+ * @author Mani Chandana Dyda(MXD180035)
  *
  * @version 1.0
  * @since 
