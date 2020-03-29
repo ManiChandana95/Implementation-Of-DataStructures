@@ -2,7 +2,7 @@
  *  BinarySearchTree class which extends the Comparable class.
  * 
  * 
- * @author Mani Chandana Dyda(MXD180035) & Venkateswar Reddy kaluva(VXK190000) 
+ * @author Mani Chandana Dyda(MXD180035) 
  *
  *
  * @param <T> the type of elements held in this collection.
