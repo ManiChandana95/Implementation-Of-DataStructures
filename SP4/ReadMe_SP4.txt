@@ -11,7 +11,7 @@ Array type should be of object which implements comparable interface
 Go to the src folder or to the folder where the java package is located and execute the below command
 
 ```
-javac vxk190000/*.java
+javac mxd180035/*.java
 ```
 ## Executing
 
@@ -19,7 +19,7 @@ javac vxk190000/*.java
 Execute the complied code using the java command
 
 ```
-java vxk190000/BinaryHeap
+java mxd180035/BinaryHeap
 ```
 
 
@@ -33,9 +33,4 @@ Output: {0,1,2,3,4,5,6,7,8,9}
 Input: {"p","x","w","d","a","c","s"}
 Output: {"a","c","d","p","s","w","x"};
  
- 
-## Done by 
-
-Venkateswar Reddy Kaluva (VXK190000)
-Mani Chandana Dyda (MXD180035)
 
