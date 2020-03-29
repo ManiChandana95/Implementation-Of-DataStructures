@@ -1,9 +1,4 @@
-/**
- * Class to represent a graph
 
- * @author rbk
- * 2018/11/06
- */
 
 //package idsa;
 
