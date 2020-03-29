@@ -1,4 +1,4 @@
-package vxk190000;
+package mxd180035;
 
 import java.util.Random;
 
@@ -7,7 +7,7 @@ import java.util.Random;
  *  Merge Sort Analysis 
  * 
  * 
- * @author Venkateswar Reddy kaluva(VXK190000) &  Mani Chandana Dyda(MXD180035)
+ * @author Mani Chandana Dyda(MXD180035)
  *
  * @version 1.0
  *
