@@ -1,7 +1,7 @@
 // Starter code for SP9
 
 // Change to your netid
-package vxk190000;
+package mxd180035;
 
 import java.util.NoSuchElementException;
 
@@ -9,7 +9,7 @@ import java.util.NoSuchElementException;
  *  BinaryHeap class 
  * 
  * 
- * @author Venkateswar Reddy kaluva(VXK190000) &  Mani Chandana Dyda(MXD180035)
+ * @author Mani Chandana Dyda(MXD180035)
  *
  * @version 1.0
  *
