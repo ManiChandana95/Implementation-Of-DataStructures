@@ -9,14 +9,14 @@ Use the javac command to compile the java files
 Go to the src folder or to the folder where the java package is located and execute the below command
 
 ```
-javac vxk190000/*.java
+javac mxd180035/*.java
 ```
 ## Executing
 
 Execute the complied code using the java command
 
 ```
-java vxk190000/DoublyLinkedList
+java mxd180035/DoublyLinkedList
 ```
 
 ## Testing
