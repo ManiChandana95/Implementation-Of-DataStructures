@@ -1,0 +1,149 @@
+~~~~~~~~~~~~~~~~~
+#################
+Input Size - 16000000
+Take - 2
+Choice: 1
+Time: 2705 msec.
+Memory: 187 MB / 420 MB.
+#################
+Input Size - 32000000
+Take - 2
+Choice: 1
+Time: 5746 msec.
+Memory: 248 MB / 424 MB.
+#################
+Input Size - 64000000
+Take - 2
+Choice: 1
+Time: 11971 msec.
+Memory: 492 MB / 916 MB.
+#################
+Input Size - 128000000
+Take - 2
+Choice: 1
+Time: 25195 msec.
+Memory: 980 MB / 1644 MB.
+#################
+Input Size - 256000000
+Take - 2
+Choice: 1
+Time: 53012 msec.
+Memory: 1956 MB / 3270 MB.
+#################
+Input Size - 512000000
+Take - 2
+Choice: 1
+Time: 109749 msec.
+Memory: 3908 MB / 6524 MB.
+#################
+~~~~~~~~~~~~~~~~~
+Input Size - 16000000
+Take - 3
+Choice: 2
+Time: 2391 msec.
+Memory: 124 MB / 220 MB.
+#################
+Input Size - 32000000
+Take - 3
+Choice: 2
+Time: 5149 msec.
+Memory: 248 MB / 424 MB.
+#################
+Input Size - 64000000
+Take - 3
+Choice: 2
+Time: 10958 msec.
+Memory: 492 MB / 916 MB.
+#################
+Input Size - 128000000
+Take - 3
+Choice: 2
+Time: 23001 msec.
+Memory: 980 MB / 1644 MB.
+#################
+Input Size - 256000000
+Take - 3
+Choice: 2
+Time: 48008 msec.
+Memory: 1956 MB / 3270 MB.
+#################
+Input Size - 512000000
+Take - 3
+Choice: 2
+Time: 99526 msec.
+Memory: 3908 MB / 6528 MB.
+#################
+~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+Input Size - 16000000
+Take - 4
+Choice: 3
+Time: 2111 msec.
+Memory: 187 MB / 420 MB.
+#################
+Input Size - 32000000
+Take - 4
+Choice: 3
+Time: 4607 msec.
+Memory: 248 MB / 424 MB.
+#################
+Input Size - 64000000
+Take - 4
+Choice: 3
+Time: 9619 msec.
+Memory: 492 MB / 916 MB.
+#################
+Input Size - 128000000
+Take - 4
+Choice: 3
+Time: 20652 msec.
+Memory: 980 MB / 1644 MB.
+#################
+Input Size - 256000000
+Take - 4
+Choice: 3
+Time: 42354 msec.
+Memory: 1956 MB / 3270 MB.
+#################
+Input Size - 512000000
+Take - 4
+Choice: 3
+Time: 87882 msec.
+Memory: 3908 MB / 6524 MB.
+~~~~~~~~~~~~~~~~~
+#################
+Input Size - 16000000
+Take - 6
+Choice: 4
+Time: 1920 msec.
+Memory: 186 MB / 282 MB.
+#################
+Input Size - 32000000
+Take - 6
+Choice: 4
+Time: 4237 msec.
+Memory: 372 MB / 552 MB.
+#################
+Input Size - 64000000
+Take - 6
+Choice: 4
+Time: 9116 msec.
+Memory: 738 MB / 1080 MB.
+#################
+Input Size - 128000000
+Take - 6
+Choice: 4
+Time: 19223 msec.
+Memory: 1470 MB / 2138 MB.
+#################
+Input Size - 256000000
+Take - 6
+Choice: 4
+Time: 40429 msec.
+Memory: 2934 MB / 4252 MB.
+#################
+Input Size - 512000000
+Take - 6
+Choice: 4
+Time: 85357 msec.
+Memory: 5862 MB / 6528 MB.
