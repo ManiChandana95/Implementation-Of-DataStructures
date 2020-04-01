@@ -10,7 +10,7 @@ Go to the package and edit the java file to Change the input String to required 
 Go to the src folder or to the folder where the java package is located and execute the below command
 
 ```
-javac vxk190000/*.java
+javac mxd180035/*.java
 ```
 ## Executing
 
@@ -18,9 +18,9 @@ javac vxk190000/*.java
 Execute the complied code using the java command
 
 ```
-java vxk190000/BFS 
+java mxd180035/BFS 
 or 
-java vxk190000/BFS testcases.txt
+java mxd180035/BFS testcases.txt
 ```
 
 
@@ -54,8 +54,5 @@ Output:
 	Cycle of odd length :: 3->9->7->8->4->3
  
  
-## Done by 
 
-Venkateswar Reddy Kaluva (VXK190000)
-Mani Chandana Dyda (MXD180035)
 
