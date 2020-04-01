@@ -110,8 +110,5 @@ null
 ------------
  
  
-## Done by 
 
-Venkateswar Reddy Kaluva (VXK190000)
-Mani Chandana Dyda (MXD180035)
 
