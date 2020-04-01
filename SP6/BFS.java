@@ -1,4 +1,4 @@
-package vxk190000;
+package mxd180035;
 
 import idsa.BFSOO;
 import idsa.Graph;
@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /** Breadth-first search
 
- *  @author Venkateswar Reddy kaluva(VXK190000) and Mani Chandana Dyda(MXD180035) 
+ *  @author Mani Chandana Dyda(MXD180035) 
 
  */
 
