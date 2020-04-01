@@ -72,8 +72,5 @@ as previous link is not updated.
 So the remove method has to be overridden in the DoublyLinkedList Class.
 
  
-## Done by 
 
-Venkateswar Reddy Kaluva (VXK190000)
-Mani Chandana Dyda (MXD180035)
 
